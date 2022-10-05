@@ -1,0 +1,18 @@
+p{
+    color:blue;   
+}
+div{
+    background-color:yellow;
+}
+span{
+    color:red;
+}
+.styleClass1{
+    background-color:rgb(9, 209, 231)
+}
+.styleClass2{
+    font-size: small;text-align: right;
+}
+#rahul{
+    color:blueviolet;
+}
